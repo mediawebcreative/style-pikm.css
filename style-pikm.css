@@ -1082,18 +1082,7 @@ ul.tag li a:hover{
 	padding-right:1em;
 	color:#38acbf;
 }
-.info_sosmed h3{
-    text-transform: uppercase;
-    font-size: 1.4em;
-    color: #212121;
-    padding-left: .8em;
-    border-left: 4px solid #38acbf;
-    font-weight: 600;
-    padding: 10px;
-}
-.info_sosmed{
-	padding-top: 20px;
-}
+
 .wthree_faq,.agileits_comment{
 	margin:3em 0 0;
 }
