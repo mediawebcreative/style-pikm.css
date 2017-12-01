@@ -732,12 +732,7 @@ header {
 .navbar {
     margin-bottom: 0;
 }
-.navbar-brand>img {
-    display: block;
-    width: 125px;
-    position: relative;
-    top: -20px;
-}
+
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     float: left;
 }
