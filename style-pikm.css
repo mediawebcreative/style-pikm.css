@@ -744,24 +744,7 @@ header {
     display: inline-block;
     float: none;
 }
-.navbar-default .navbar-nav>li>a {
-	position: relative;
-    font-size: 16px;
-    text-transform: uppercase;
-    color: #bbb;
-    letter-spacing: 2px;
-    padding: 20px 22px;
-    font-weight: 700;
-}
 
-.navbar-default .navbar-nav>li>a.active:focus, 
-.navbar-default .navbar-nav>li>a.active:hover,
-.navbar-default .navbar-nav>.open>a,
-.navbar-default .navbar-nav>li>a:hover{
-	color: #000;
-    font-weight: 700;
-
-}
 .navbar-default .navbar-nav>.open>a, 
 .navbar-default .navbar-nav>.open>a:focus, 
 .navbar-default .navbar-nav>.open>a:hover
@@ -790,8 +773,7 @@ header {
     -moz-border-radius: 0px;
     -ms-border-radius: 0px;
     -o-border-radius: 0px;
-	
-	border-top: 1px solid #e1e1e1;
+    border-bottom: 2px solid #820509;
 }
 .dropdown-menu {
     width: 280px;
