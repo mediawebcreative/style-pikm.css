@@ -3061,15 +3061,13 @@ nav.events {
 }
 }
 @media (max-width: 320px){
+.navbar-brand span{
+	font-size:15px;	
+}
 .mwclayouts-top-strip {
     padding: 14px 0;
 }
-.logo a {
-    font-size: 27px;
-}
-.logo p {
-    font-size: 11px;
-}
+
 .container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
     width: 100%;
 }
