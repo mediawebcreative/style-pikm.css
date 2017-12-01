@@ -3022,8 +3022,8 @@ nav.events {
 }
 }
 @media (max-width: 414px){
-.logo a {
-    font-size: 32px;
+.navbar-brand span{
+	font-size:15px;	
 }
 .container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
     width: 100%;
@@ -3061,9 +3061,6 @@ nav.events {
 }
 }
 @media (max-width: 320px){
-.navbar-brand span{
-	font-size:15px;	
-}
 .mwclayouts-top-strip {
     padding: 14px 0;
 }
