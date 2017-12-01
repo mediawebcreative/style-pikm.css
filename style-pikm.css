@@ -929,11 +929,7 @@ span.glyphicon.agileits.mwclayouts.glyphicon-arrow-right {
 .pa_italic span {
     display: none;
 }
-.collapsed span {
-    display: inline-block;
-    left: -1em;
-	font-size: 11px;
-}
+
 .collapsed i {
     display: none;
 }
@@ -1159,31 +1155,7 @@ ul.tag li a:hover{
     float: right;
     width: 25%;
 }
-.footer-agile-info {
-    padding: 5em 0;
-    background: #212121;
-}
-.footer-agile-info h3,h2 {
-    font-size: 24px;
-    color: #fff;
-    text-transform: uppercase;
-    font-weight: 600;
-    letter-spacing: 1px;
-	    margin-bottom: 30px;
-}
-.footer-agile-info p {
-    font-size: 14px;
-    color: #bebebe;
-    line-height: 28px;
-    margin: 8px 0;
-}
-.footer-agile-info p a {
-    color: #bebebe;
-	text-decoration:none;
-}
-.footer-agile-info p a:hover{
-    color: #38acbf;
-}
+
 .mwc-agile input[type="email"] {
     outline: none;
     padding: 10px;
@@ -2312,23 +2284,7 @@ h2.typoh2{
 .agile_classes_grid1_right {
     padding-left: 0;
 }
-/*-- //features --*/
-.footer-agile-info span {
-    display: inline-block;
-    margin-right: 10px;
-    color: #fff;
-    width: 16px;
-    text-align: left;
-}
-.footer-agile-info i.fa.fa-globe {
-    font-size: 18px;
-}
-.footer-agile-info i.fa.fa-mobile {
-    font-size: 22px;
-}
-.footer-agile-info i.fa.fa-map-marker {
-    font-size: 19px;
-}
+
 /*-- featured-services --*/
 .agile_services_grid{
 	position:relative;
@@ -3042,10 +2998,6 @@ nav.events {
     font-size: 15px;
     line-height: 28px;
 }
-.footer-agile-info h3, h2 {
-    font-size: 22px;
-    margin-bottom: 16px;
-}
 .wthree_head {
     font-size: 2em;
 }
@@ -3171,12 +3123,7 @@ a.agileits.mwclayouts {
 .mwcl_categories {
     margin-top: 2em;
 }
-.footer-agile-info {
-    padding: 2.5em 0;
-}
-.footer-agile-info h3, h2 {
-    font-size: 20px;
-}
+
 .mwclayouts-footer {
     padding: 0;
 }
@@ -3186,9 +3133,7 @@ a.agileits.mwclayouts {
 .mwc-agile {
     padding: 0;
 }
-.footer-agile-info p {
-    font-size: 13px;
-}
+
 .agileinfo p {
     font-size: 13px;
     margin: 1em 0 0 0;
