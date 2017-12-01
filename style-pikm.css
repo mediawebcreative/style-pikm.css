@@ -3023,7 +3023,7 @@ nav.events {
 }
 @media (max-width: 414px){
 .navbar-brand span{
-	font-size:15px;	
+	font-size:12px;	
 }
 .container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
     width: 100%;
