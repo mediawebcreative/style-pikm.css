@@ -1574,10 +1574,6 @@ h3.agileits-icons-title {
 	}
 }
 @media (max-width:768px){
-	.navbar-brand>img{
-		width: 100px;
-		top: -19px;
-	}
 	h3.agileits-icons-title {
 		font-size: 28px;
 	}
